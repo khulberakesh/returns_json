@@ -1,0 +1,9 @@
+README.md
+setup.py
+returns_json/__init__.py
+returns_json/functions.py
+returns_json.egg-info/PKG-INFO
+returns_json.egg-info/SOURCES.txt
+returns_json.egg-info/dependency_links.txt
+returns_json.egg-info/requires.txt
+returns_json.egg-info/top_level.txt
